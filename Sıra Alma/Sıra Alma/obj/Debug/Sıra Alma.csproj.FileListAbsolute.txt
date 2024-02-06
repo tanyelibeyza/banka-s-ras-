@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\bin\Debug\Sıra Alma.exe.config
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\bin\Debug\Sıra Alma.exe
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\bin\Debug\Sıra Alma.pdb
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra_Alma.Form1.resources
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra_Alma.Properties.Resources.resources
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.exe
+C:\Users\User\source\repos\Sıra Alma\Sıra Alma\obj\Debug\Sıra Alma.pdb
